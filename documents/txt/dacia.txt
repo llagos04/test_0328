@@ -1,0 +1,37 @@
+Información camperización Dacia Dokker (Kit Mueble Camper, kit camperización):
+- Ofrece una camperización práctica y versátil. No es una camperización integral.
+- Precio kit Blanco Perlado: 575€ (colchones incluidos).
+- Precio kit Contrachapado Fenolico: 499€ + 200€ por el pack de colchones.
+- El kit dispone de mesa interior.
+- Dimensiones: 
+    - Ancho: 114 cm, con colchón 120-125 cm.
+    - Profundidad: 120 cm.
+    - Altura: 36 cm. 
+    - Largo total de la cama: 187 cm.
+Metadatos: [Camperización Dokker]
+
+
+Información camperización Dacia Jogger (Kit Mueble Camper, kit camperización):
+- Ofrece una camperización práctica y versátil. No es una camperización integral.
+- Precio kit Blanco Perlado: 575€ (colchones incluidos).
+- Precio kit Contrachapado Fenolico: 700€ (colchones incluidos).
+- Este kit no dispone de mesa interior.
+- Dimensiones: 
+    - Ancho: 99 cm, con colchón 125 cm.
+    - Profundidad: 95 cm.
+    - Altura: 36 cm. 
+    - Largo total de la cama: 187 cm.
+Metadatos: [Camperización Jogger]
+
+
+Información camperización Dacia Lodgy (Kit Mueble Camper, kit camperización):
+- Ofrece una camperización práctica y versátil. No es una camperización integral.
+- Precio kit Blanco Perlado: 575€ (colchones incluidos).
+- Precio kit Contrachapado Fenolico: 700€ (colchones incluidos).
+- Este kit no dispone de mesa interior.
+- Dimensiones: 
+    - Ancho: 99 cm, con colchón 125 cm.
+    - Profundidad: 95 cm.
+    - Altura: 36 cm. 
+    - Largo total de la cama: 187 cm.
+Metadatos: [Camperización Lodgy]

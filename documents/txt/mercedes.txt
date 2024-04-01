@@ -1,0 +1,49 @@
+Información camperización Mercedes Citan (Kit Mueble Camper, kit camperización):
+- Kit para camperizar la furgoneta Citan.
+- Ofrece una camperización práctica y versátil. No es una camperización integral.
+- Precio Kit Blanco Perlado: 575€ (colchones incluidos).
+- Precio Kit Contrachapado Fenolico: 700€ (colchones incluidos).
+- Dimensiones: 
+    - Ancho: 111 cm para la 1ª generación, 117 cm para la actual; con cochon 120 cm en todas.
+    - Profundidad: entre 70 y 72 cm en todas.
+    - Altura: 35 cm.
+    - Largo de la cama: 187 cm.
+Metadatos: [Camperización Citan, Información del kit para la furgoneta Citan]
+
+
+Información camperización Mercedes Clase T (Kit Mueble Camper, kit camperización):
+- Kit para camperizar la furgoneta Clase T.
+- Ofrece una camperización práctica y versátil. No es una camperización integral.
+- Precio del Kit Blanco Perlado: 575€ incluye los colchones dentro del precio.
+- Precio del Kit Contrachapado Fenolico: 700€ incluye los colchones dentro del precio.
+- Dimensiones: 
+    - Ancho: 117 cm sin colchones, 120 cm con colchones.
+    - Profundidad: entre 70 y 72 cm.
+    - Altura: 35 cm.
+    - Largo de la cama: 187 cm.
+Metadatos: [Camperización Clase T, Información del kit para la furgoneta Clase T]
+
+
+Información camperización Mercedes Viano (Kit Mueble Camper, kit camperización):
+- Ofrece una camperización práctica y versátil. No es una camperización integral.
+- Precio Kit Blanco Perlado: 700€ (colchones incluidos).
+- Precio Kit Contrachapado Fenolico: 700€ + 200€ por el pack de colchones.
+- Dimensiones: 
+    - Ancho: 117-119 cm sin colchón + aletas laterales, con colchon 140-145 cm.
+    - Profundidad: 120 cm.
+    - Altura: 40-44 cm sin asientos, con asientos 58-61 cm.
+    - Largo de la cama: 185/190 cm.
+Metadatos: [Camperización Viano]
+
+
+Información camperización Mercedes Vito (Kit Mueble Camper, kit camperización):
+- Kit para camperizar la furgoneta Vito.
+- Ofrece una camperización práctica y versátil. No es una camperización integral.
+- Precio Kit Blanco Perlado: 700€ (colchones incluidos).
+- Precio Kit Contrachapado Fenolico: 700€ + 200€ por el pack de colchones.
+- Dimensiones: 
+    - Ancho: 120 cm + 18 cm por lado con modulo lateral, 160 cm de ancho con colchón.
+    - Profundidad: 120 cm.
+    - Altura: 44 cm sin asientos, con asientos 58-61 cm.
+    - Largo de la cama: 185/190 cm.
+Metadatos: [Camperización Vito, Información del kit para la furgoneta Vito]

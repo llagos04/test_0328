@@ -1,0 +1,54 @@
+Información camperización Opel Combo Life (Kit Mueble Camper, kit camperización):
+- Kit para camperizar la furgoneta Combo Life.
+- Ofrece una camperización práctica y versátil. No es una camperización integral.
+- Precio kit Blanco Perlado: Talla M 575€ (colchones incluidos), Talla L2 700€ (colchones incluidos).
+- Precio kit Contrachapado Fenolico: Talla M 499€ + 200€ por el pack de colchones, Talla L2 650€ + 200€ por el pack de colchones.
+- Dimensiones: 
+    - Ancho: 111 cm (1ª generación), 115 cm (2ª y 3ª generación), con colchón 120 cm en todas las generaciones.
+    - Profundidad: 
+        - Talla M: 72 cm (1ª generación), 86 cm (2ª y 3ª generación).  
+        - Talla XL: 115 cm solo disponible para la 3ª generación.
+    - Altura: 35 cm (1ª y 3ª generación), 37 cm (2ª generación).
+    - Largo total de la cama: 187 cm (Talla M), 220 cm (Talla L2).
+Metadatos: [Camperización Combo Life, Información del Kit para camperizar la furgoneta Combo Life]
+
+
+Información camperización Opel Movano (Kit Mueble Camper, kit camperización):
+- Kit para camperizar la furgoneta Movano.
+- Ofrece una camperización práctica y versátil. No es una camperización integral.
+- Precio kit Blanco Perlado: 900€ (colchones incluidos).
+- Precio kit Contrachapado Fenolico: 1000€ (colchones incluidos).
+- Válido para todas sus generaciones.
+- Dimensiones: 
+    - Ancho: 170-177 cm, incluyendo módulos laterales por lado.
+    - Profundidad: 120 cm.
+    - Altura: 44 cm (1ª generación), 48 cm (2ª generación), 52 cm (3ª generación).
+    - Largo de la cama: 185/190 cm.
+Metadatos: [Camperización Movano, Información del Kit para camperizar la furgoneta Movano]
+
+
+Información camperización Opel Vivaro (Kit Mueble Camper, kit camperización):
+- Kit para camperizar la furgoneta Vivaro.
+- Ofrece una camperización práctica y versátil. No es una camperización integral.
+- Precio kit Blanco Perlado: 750€ (colchones incluidos).
+- Precio kit Contrachapado Fenolico: 700€ + 200€ por el pack de colchones.
+- Mismo kit para las versiones M y XL. Válido para todas sus generaciones.
+- Dimensiones: 
+    - Ancho: 120 cm (1ª generación), 120 cm + módulo de 16 cm por lado (2ª generación), en la 3ª generación, la actual, los módulos son de 14 cm por lado.
+    - Profundidad: 120 cm.
+    - Altura: 44 cm sin asientos y 56 cm con asientos (1ª y 2ª generación); 40-44 cm sin asientos y 51 cm con asientos (3ª generación).
+    - Largo de la cama: 185/190 cm.
+Metadatos: [Información para camperizar la furgoneta Vivaro, Camperización Vivaro, Información del Kit para camperizar la furgoneta Vivaro]
+
+
+Información camperización Opel Zafira (Kit Mueble Camper, kit camperización):
+- Ofrece una camperización práctica y versátil. No es una camperización integral.
+- Precio kit Blanco Perlado: 750€ (colchones incluidos).
+- Precio kit Contrachapado Fenolico: 700€ + 200€ por el pack de colchones.
+- Información: Válido para todas sus generaciones.
+- Dimensiones: 
+    - Ancho: 115 cm sin colchón, 140 cm con colchón.
+    - Profundidad: 120 cm.
+    - Altura: 51 cm con asientos, 40-44 cm sin asientos.
+    - Largo de la cama: 185/190 cm.
+Metadatos: [Camperización Zafira]

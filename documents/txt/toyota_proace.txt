@@ -1,0 +1,13 @@
+Información camperización Toyota Proace (Kit Mueble Camper, kit camperización):
+  - Ofrece una camperización práctica y versátil. No es una camperización integral.
+  - Precio Kit Blanco Perlado: 750€ (colchones incluidos).
+  - Precio Kit Contrachapado Fenolico: 900€ (colchones incluidos).
+  - No es válido para la Toyota Proace City. Mismo kit para las versiones M y XL.
+  - Dimensiones:
+      - Ancho (depende de si es la Proace Verso o la Prace Combi):
+          - Para la Versión Verso: 115 cm + aletas de 7.5 cm por lado, 145 cm con colchón.
+          - Para la Versión Combi: 120 cm + módulos de 14 cm por lado, 155 cm con colchón.
+      - Profundidad: 120 cm.
+      - Altura: 40-44 cm sin asientos, 51 cm con asientos.
+      - Largo de la cama: 185/190 cm.
+Metadatos: [Camperización Proace Verso, Proace Combi]

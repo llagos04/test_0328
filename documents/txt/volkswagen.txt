@@ -1,0 +1,37 @@
+Información camperización Volkswagen Caddy (Kit Mueble Camper, kit camperización):
+- Ofrece una camperización práctica y versátil. No es una camperización integral.
+- Precio Kit Blanco Perlado: Talla Normal 575€ (colchones incluidos), Talla Maxi: 700€ (colchones incluidos).
+- Precio Kit Contrachapado Fenolico: Talla Normal 499€ + 200€ por el pack de colchones, Talla Maxi 650€ + 200€ por el pack de colchones.
+- Dimensiones: 
+    - Ancho: 115 cm (1ª generación), 110 cm (2 ª generación),115 cm (3 ª generación). 120 cm con colchón en todas las generaciones.
+    - Profundidad: Aproximadamente 86 cm en todas las generaciones.
+    - Altura: 35 cm.
+Metadatos: [Camperización Caddy]
+
+
+Información camperización Volkswagen Transporter T4, T5, T6 (Kit Mueble Camper, kit camperización):
+- Kit para camperizar las furgonetas Transporter T4, Transporter T5 y Transporter T6.
+- Ofrece una camperización práctica y versátil. No es una camperización integral.
+- Precio Kit Blanco Perlado: 750€ (colchones incluidos).
+- Precio Kit Contrachapado Fenolico: 900€ (colchones incluidos).
+- Válido para las Transporter T4, T5 y T6.
+- Dimensiones: 
+    - Ancho: 120 cm + modulo lateral de 16 cm por lado, 155-160 cm con colchón.
+    - Profundidad: 120 cm.
+    - Altura: 44 sin asientos, 56 cm con asientos.
+    - Largo de la cama: 185/190 cm.
+Metadatos: [Información para camperizar las furgonetas Transporter, Camperización Transporter T4, Camperización Transporter T5, Camperización Transporter T6]
+
+
+Información camperización Volkswagen Caravelle T4, T5, T6 (Kit Mueble Camper, kit camperización):
+- Kit para camperizar las furgonetas Caravelle T4, Caravelle T5 y Caravelle T6.
+- Ofrece una camperización práctica y versátil. No es una camperización integral.
+- Precio Kit Blanco Perlado: 750€ (colchones incluidos).
+- Precio Kit Contrachapado Fenolico: 900€ (colchones incluidos).
+- Válido para las Caravelle T4, T5 y T6.
+- Dimensiones: 
+    - Ancho: 120 cm + aletas o pequeños módulos por lado cama, 145 cm con colchón.
+    - Profundidad: 120 cm.
+    - Altura: 44 cm sin asientos, 56 cm con asientos.
+    - Largo de la cama: 185/190 cm.
+Metadatos: [Información para camperizar las furgonetas Caravelle, Camperización Caravelle T4, Camperización Caravelle T5, Camperización Caravelle T6]

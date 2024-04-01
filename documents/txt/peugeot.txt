@@ -1,0 +1,66 @@
+Información camperización Peugeot Partner (Kit Mueble Camper, kit camperización):
+- Kit para camperizar la furgoneta Partner.
+- Ofrece una camperización práctica y versátil. No es una camperización integral.
+- Precio kit Blanco Perlado: 575€ (colchones incluidos).
+- Precio kit Contrachapado Fenolico: 499€ + 200€ por el pack de colchones.
+- Dimensiones: 
+    - Ancho: 115 cm.
+    - Profundidad: 68 cm (1ª generación), 75 cm (2ª generación).
+    - Altura: 37 cm (1ª generación), 36 cm (2ª generación).
+    - Largo de la cama: 187 cm.
+Metadatos: [Camperización Partner, Información del kit para camperizar la furgoneta Partner]
+
+
+Información camperización Peugeot Boxer (Kit Mueble Camper, kit camperización):
+- Kit para camperizar la furgoneta Boxer.
+- Ofrece una camperización práctica y versátil. No es una camperización integral.
+- Precio kit Blanco Perlado: 900€ (colchones incluidos).
+- Precio kit Contrachapado Fenolico: 1000€ (colchones incluidos).
+- Válido para todas sus generaciones.
+- Dimensiones: 
+    - Ancho: 170-177 con módulos laterales a cada lado.
+    - Profundidad: 120 cm.
+    - Altura: 44 cm (1ª generación), 48 cm (2 ª generación), 52 cm (3 ª generación).
+    - Largo de la cama: 185/190 cm.
+Metadatos: [Camperización Boxer, Información del kit para camperizar la furgoneta Boxer]
+
+
+Información camperización Peugeot Expert (Kit Mueble Camper, kit camperización):
+- Kit para camperizar la furgoneta Expert.
+- Ofrece una camperización práctica y versátil. No es una camperización integral.
+- Precio kit Blanco Perlado: 750€ (colchones incluidos).
+- Precio kit Contrachapado Fenolico: 900€ (colchones incluidos).
+- Es el mismo kit para la versión M y XL.
+- Dimensiones: 
+    - Ancho: 120 cm + módulos laterales, 155 cm con colchón.
+    - Profundidad: 120 cm.
+    - Altura: 44 cm sin asientos, 51 cm con asientos.
+    - Largo de la cama: 185/190 cm.
+Metadatos: [Información para camperizar la furgoneta Expert, Camperización Peugeot Expert, Información del kit para camperizar la furgoneta Expert]
+
+
+Información camperización Peugeot Rifter (Kit Mueble Camper, kit camperización):
+- Kit para camperizar la furgoneta Rifter.
+- Ofrece una camperización práctica y versátil. No es una camperización integral.
+- Precio kit Blanco Perlado: Talla M 575€ (colchones incluidos), Talla Long 700€ (colchones incluidos).
+- Precio kit Contrachapado Fenolico: Talla M 499€ + 200€ por el pack de colchones, Talla Long 650€ + 200€ por el pack de colchones.
+- Dimensiones: 
+    - Ancho: 115 cm, con colchón 120 cm.
+    - Profundidad: 86 cm (talla M), 115 cm (talla XL).
+    - Altura: 35 cm.
+    - Largo total de la cama: 187 cm (talla M), 220 cm (talla XL).
+Metadatos: [Camperización Rifter, Información del kit para camperizar la furgoneta Rifter]
+
+
+Información camperización Peugeot Traveller (Kit Mueble Camper, kit camperización):
+- Kit para camperizar la furgoneta Traveller.
+- Ofrece una camperización práctica y versátil. No es una camperización integral.
+- Precio kit Blanco Perlado: 750€ (colchones incluidos).
+- Precio kit Contrachapado Fenolico: 900€ (colchones incluidos).
+- Información: Mismo kit para la versión M y XL.
+- Dimensiones: 
+    - Ancho: 100 cm + aleta de 7.5 cm por lado, 140-145 cm en total con colchón.
+    - Profundidad: 120 cm.
+    - Altura: 51 cm con asientos, 40-44 cm sin asientos.
+    - Largo de la cama: 185/190 cm.
+Metadatos: [Camperización Traveller, Información del kit para camperizar la furgoneta Traveller]

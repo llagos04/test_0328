@@ -1,0 +1,51 @@
+Información camperización Citroën Berlingo (Kit Mueble Camper, kit camperización):
+- Kit camper para la furgoneta Berlingo.
+- Ofrece una camperización práctica y versátil. No es una camperización integral.
+- Precio kit Blanco Perlado: Talla M 575€ (colchones incluidos), Talla XL: 700€ (colchones incluidos).
+- Precio kit Contrachapado Fenolico: Talla M 499€ (+ 200€ por el pack de colchones), Talla XL: 650€ (+ 200€ por el pack de colchones).
+- Dimensiones:
+    - Ancho: 115 cm sin colchón, 120 cm con colchón.
+    - Profundidad: 68 cm (1ª generación M y XL), 75 cm (2ª generación M y XL), 86 cm (3ª generación M) y 115 (3ª generación XL).
+    - Altura: 37 cm (1ª generación), 36 cm (2ª generación), 35 cm (3ª generación).
+    - Largo total de la cama: 187 cm (Talla M), 220 cm (Talla XL).
+Metadatos: [Información Kit Camper Berlingo, Camperización Berlingo]
+
+
+Información camperización Citroën Jumper (Kit Mueble Camper, kit camperización):
+- Kit Camper para la furgoneta Jumper.
+- Ofrece una camperización práctica y versátil. No es una camperización integral.
+- Precio kit Blanco Perlado: 900€ (colchones incluidos)
+- Precio Contrachapado Fenolico: 1000€ (colchones incluidos)
+- Información: válido para todas sus generaciones, no válido para la citroen Jumpy.
+- Dimensiones: 
+    - Ancho: 170-177 cm contando los modulos laterales.
+    - Profundidad: 120 cm.
+    - Altura: 44-48-52 cm, a elección del cliente. 
+    - Largo total de la cama: 185/190 cm.
+Metadatos: [Información kit para la Jumper, Camperización Jumper]
+
+
+Información camperización Citroën Jumpy (Kit Mueble Camper, kit camperización):
+- Ofrece una camperización práctica y versátil. No es una camperización integral.
+- Precio kit Blanco Perlado: 750€ (colchones incluidos)
+- Precio kit Contrachapado Fenolico: 900€ (colchones incluidos)
+- Información: Mismo kit para las versiones M y XL, válido para cualquiera de sus generaciones, no válido para la Citroen Jumper.
+- Dimensiones: 
+    - Ancho: 120 cm + Modulos laterales de 14-15 cm. Con colchón 150-155 cm.
+    - Profundidad: 120 cm.
+    - Altura: 44 cm sin asientos, 51 cm con asientos de la fila del medio. 
+    - Largo total de la cama: 185/190 cm.
+Metadatos: [Camperización Jumpy]
+
+
+Información camperización Citroën Space Tourer (Kit Mueble Camper, kit camperización):
+- Ofrece una camperización práctica y versátil. No es una camperización integral.
+- Precio kit Blanco Perlado: 750€ (colchones incluidos)
+- Precio kit Contrachapado Fenolico: 900€ (colchones incluidos)
+- Información: Válido para las versiones talla XS, M y XL.
+- Dimensiones: 
+    - Ancho: 115 cm + aletas de 7,5 cm por lado. Con colchón alrededor de 140 cm.
+    - Profundidad: 120 cm.
+    - Altura: Sin asientos 40-44 cm, con asientos 51 cm. 
+    - Largo total de la cama: 185/190 cm.
+Metadatos: [Camperización Sapace Tourer]

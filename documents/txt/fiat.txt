@@ -1,0 +1,50 @@
+Información camperización Fiat Doblo (Kit Mueble Camper, kit camperización):
+- Ofrece una camperización práctica y versátil. No es una camperización integral.
+- Precio kit Blanco Perlado: 575€ (colchones incluidos).
+- Precio kit Contrachapado Fenolico: 499€ + 200€ por el pack de colchones.
+- Dimensiones: 
+    - Ancho: 115 cm, 120 cm con colchón.
+    - Profundidad: 85 cm.
+    - Altura: 37 cm. 
+    - Largo total de la cama: 187 cm.
+Metadatos: [Camperización Doblo]
+
+
+Información camperización Fiat Ducato (Kit Mueble Camper, kit camperización):
+- Ofrece una camperización práctica y versátil. No es una camperización integral.
+- Precio kit Blanco Perlado: 900€ (colchones incluidos).
+- Precio kit Contrachapado Fenolico: 1000€ (colchones incluidos).
+- Válido para todas sus generaciones.
+- Dimensiones: 
+    - Ancho: 170-177 cm contando los modulos laterales.
+    - Profundidad: 120 cm.
+    - Altura: 44, 48 0 52 cm, a elección del cliente. 
+    - Largo total de la cama: 185/190 cm.
+Metadatos: [Camperización Ducato]
+
+
+Información camperización para la Fiat Talento (Kit Mueble Camper, kit camperización):
+- Ofrece una camperización práctica y versátil. No es una camperización integral.
+- Kit para camperizar la Fiat Talento.
+- Precio kit Blanco Perlado: 750€ (colchones incluidos).
+- Precio kit Contrachapado Fenolico: 700€ + 200€ por el pack de colchones.
+- Válido para las versiones Normal, Larga y Extralarga.
+- Dimensiones: 
+    - Ancho: 120 cm sin colchón, 155 cm con colchón + módulos de 16cm por lado sino tiene embellecedores de plástico, si tiene embellecedores aletas por lado de 7 a 10 cm.
+    - Profundidad: 120 cm.
+    - Altura: 44 cm sin asientos, 56 cm con asientos. 
+    - Largo total de la cama: 185/190 cm.
+Metadatos: [Camperización Talento, Información camperización Fiat Talento]
+
+
+Información camperización Fiat Scudo (Kit Mueble Camper, kit camperización):
+- Ofrece una camperización práctica y versátil. No es una camperización integral.
+- Precio kit Blanco Perlado: 750€ (colchones incluidos).
+- Precio kit Contrachapado Fenolico: 700€ + 200€ por el pack de colchones.
+- Válido para todas sus generaciones y para las versiones Corta y Larga.
+- Dimensiones: 
+    - Ancho: 115/120 cm sin embellecedores de plástico con módulos laterales de 14-15-16 cm con embellecedores con pequeñas aletas laterales.
+    - Profundidad: 110-120 cm.
+    - Altura: 40-44 cm sin asientos, 48-51 cm con asientos. 
+    - Largo total de la cama: 185/190 cm.
+Metadatos: [Camperización Scudo]

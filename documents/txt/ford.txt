@@ -1,0 +1,81 @@
+Información camperización Ford Tourneo Courier (Kit Mueble Camper, kit camperización):
+- Ofrece una camperización práctica y versátil. No es una camperización integral.
+- Kit para la Ford Tourneo Courier.
+- Precio kit Blanco Perlado: 550€ (colchones incluidos).
+- Precio kit Contrachapado Fenolico: 499€ + 200€ por el pack de colchones.
+- Dimensiones: 
+    - Ancho: 97 cm, 100 cm con colchón.
+    - Profundidad: 180 cm.
+    - Altura: 37 cm. 
+    - Largo total de la cama: 185/190 cm.
+Metadatos: [Camperización Tourneo Courier, Información del kit para la furgoneta Tourneo Courier]
+
+
+Información camperización Ford Tourneo Connect (Kit Mueble Camper, kit camperización):
+- Kit para la Ford Tourneo Connect.
+- Ofrece una camperización práctica y versátil. No es una camperización integral.
+- Precio kit Blanco Perlado: Talla Normal 575€ (colchones incluidos), Grand Tourneo 700€ (colchones incluidos).
+- Precio kit Contrachapado Fenolico: Talla Normal 499€ + 200€ por el pack de colchones, Grand Tourneo 650€ + 200€ por el pack de colchones.
+- Dimensiones: 
+    - Ancho: 117 cm (1ª y 2ª generación), 115 cm (3ª generación), en todas 120 de ancho con colchón.
+    - Profundidad: 
+        - 1ª generación: 72 cm (versión Normal) y 99 cm (versión Larga).
+        - 2ª generación: 72 cm (versión Normal) y 115 cm (versión Larga).
+        - 3ª generación: 86 cm (versión Normal) y 115 cm (versión XL).
+    - Altura: 37 cm (1ª generación), 34 cm (2ª generación) y 35 cm (3ª generación). 
+    - Largo total de la cama: 187 cm y 220 cm para la versión XL de la 3ª generación.
+Metadatos: [Camperización Tourneo Connect, Información del kit para la furgoneta Tourneo Connect]
+
+
+Información camperización Ford Tourneo Custom (Kit Mueble Camper, kit camperización):
+- Kit para la Ford Tourneo Custom.
+- Ofrece una camperización práctica y versátil. No es una camperización integral.
+- Precio kit Blanco Perlado: Talla Normal 575€ (colchones incluidos), Talla Maxi 700€ (colchones incluidos).
+- Precio kit Contrachapado Fenolico: Talla Normal 499€ + 200€ por el pack de colchones, Talla Maxi 650€ + 200€ por el pack de colchones.
+- Dimensiones: 
+    - Ancho: 120 cm + aleta recubriendo espacios.
+    - Profundidad: 120 cm.
+    - Altura: 44 cm.
+    - Largo total de la cama: 185 cm.
+Metadatos: [Camperización Tourneo Custom, Información del kit para la furgoneta Tourneo Custom]
+
+
+Información camperización Ford Transit Courier (Kit Mueble Camper, kit camperización):
+- Kit para la Ford Transit Courier.
+- Ofrece una camperización práctica y versátil. No es una camperización integral.
+- Precio kit Blanco Perlado: 550€ (colchones incluidos).
+- Precio kit Contrachapado Fenolico: 499€ + 200€ por el pack de colchones.
+- Dimensiones: 
+    - Ancho: 97 cm, 120 cm con colchón.
+    - Profundidad: 180 cm.
+    - Altura: 37 cm. 
+    - Largo total de la cama: 185/190 cm.
+Metadatos: [Camperización Transit Courier, Información del kit para la furgoneta Transit Courier]
+
+
+Información camperización Ford Transit Connect (Kit Mueble Camper, kit camperización):
+- Kit para la Ford Transit Connect.
+- Ofrece una camperización práctica y versátil. No es una camperización integral.
+- Precio kit Blanco Perlado: Talla Normal 575€ (colchones incluidos), Talla Maxi 700€ (colchones incluidos).
+- Precio kit Contrachapado Fenolico: Talla Normal 499€ + 200€ por el pack de colchones, Talla Maxi 650€ + 200€ por el pack de colchones.
+- Dimensiones: 
+    - Ancho: 117 cm, 120 cm con colchón.
+    - Profundidad:
+        - 1ª generación: 72 cm versión Normal y 99 cm versión Larga.
+        - 2ª generación: 72 cm versión Normal y 115 cm versión Larga. 
+    - Altura: 37 cm para la 1ª generación y 34 cm para la 2ª. 
+    - Largo total de la cama: 187 cm.
+Metadatos: [Camperización Transit Connect, Información del kit para la furgoneta Transit Connect]
+
+
+Información camperización Ford Transit Custom (Kit Mueble Camper, kit camperización):
+- Kit para la Ford Transit Custom.
+- Ofrece una camperización práctica y versátil. No es una camperización integral.
+- Precio kit Blanco Perlado: con aire acondicionado trasero 750€ (colchones incluidos), sin aire acondicionado trasero 800€ (colchones incluidos).
+- Precio kit Contrachapado Fenolico: 700€ + 200€ por el pack de colchones.
+- Dimensiones: 
+    - Ancho: 131 cm + modulos laterales por lado de 16 cm.
+    - Profundidad: 120 cm.
+    - Altura: 44 cm.
+    - Largo total de la cama: 185 cm.
+Metadatos: [Camperización Transit Custom, Información del kit para la furgoneta Transit Custom]
